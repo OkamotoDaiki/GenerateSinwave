@@ -21,7 +21,7 @@ If you set the output_wave variable to `True`, you can output the generated sin 
  
 # Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
+You can import it with the following program.
  
 ```python
 from generate_sinwave import output_sinwave
